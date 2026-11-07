@@ -1,0 +1,480 @@
+,--.                                ,--.       ,--.
+|  ,---. ,--. ,--.,-----. ,---.     |  | ,---. |  |
+|  .-.  | \  '  / `-.  / | .-. :    |  || .-. ||  |
+|  | |  |  \   '   /  `-.\   --..--.|  |' '-' '|  |
+`--' `--'.-'  /   `-----' `----''--'`--' `---' `--'
+         `---'  V : 1.3.0
+
+
+၊| Settings |၊
+• Join Discord
+• Menu Settings
+• Mod Settings
+• Config
+
+• Menu Settings
+  • Panic
+  • Clear Notifications
+  • Menu Theme [Delphinium/Magnolia/Rose/Lilac/Pumpkin/GreenApple/Midnight/NightSky]
+  • Menu Hand [Left/Right]
+  • Notifications [On/Off]
+  • PC Notifications [On/Off]
+  • FPS Counter [On/Off]
+  • Ping Counter [On/Off]
+  • Watermark Bar [On/Off]
+  • Watermark Position [TopRight/TopLeft/BottomRight/BottomLeft]
+  • Array List [On/Off]
+  • Array List Position [TopRight/TopLeft/BottomRight/BottomLeft]
+  • Discord RPC [On/Off]
+  • Home Button Location [Top/Bottom]
+  • Disconnect Button [On/Off]
+  • Menu Toggle Keybind [Q/E/R/F/X/C/B/V/G/T/Z]
+  • Menu Smoothing [Sharp/Smooth/VerySmooth]
+  • Menu Transparency [Solid/25%/40%/55%/70%/Invisible]
+  • Background Theme [Noise/Static/Fade]
+  • Background Speed [0.25x/0.5x/1x/2x/4x]
+
+
+• Mod Settings
+  • Platform Type [Normal/Sticky/Invisible/InvisibleSticky]
+  • Platform Input [Grip/Trigger]
+  • Boost Speed [Medium/Fast/VeryFast/Mosa/Comp/Slow]
+  • Fly Speed [Medium/Fast/VeryFast/VerySlow/Slow]
+  • ESP Type [MenuTheme/Infection/ColorCode/ThemeGradient/Rainbow]
+  • ESP Target [OtherPlayers/Everyone]
+  • Dynamic ESP [On/Off]
+  • ESP Smoothness [Sharp/Rounded]
+  • Box Fill [On/Off]
+  • Tracer Location [RightHand/LeftHand/Head/Body]
+  • Tags X-Ray [Off/On]
+  • Gun Color [MenuTheme/Red/Blue/Green/Purple/Orange/Yellow/White/Pink/Cyan]
+  • Gun Ball [On/Off]
+  • Gun Transparency [Solid/10%/20%/30%/40%/50%]
+  • Gun Animation [On/Off]
+  • Gun Thickness [Thin/Normal/Thick/VeryThick]
+  • Gun Lock [On/Off]
+  • Gun Hand [Right/Left]
+
+
+• Config Settings
+  • Save Config
+  • New Config
+    • Create Config
+    • Config Name
+  • Select Config
+  • Load Config
+  • Delete Config
+  • Open Config Folder
+  • Auto Apply Config
+
+
+၊| Movement |၊
+  • Platforms
+  • Fly
+  • Noclip
+  • PC Noclip
+  • Noclip Fly
+  • TFly
+  • Slingshot Fly
+  • Speed Boost
+  • WASD Fly
+  • Iron Monke
+  • Frozone
+  • Car Monke
+  • Slide Control
+  • Up and Down
+  • Left and Right
+  • Forwards and Backwards
+  • Low Gravity
+  • High Gravity
+  • Zero Gravity
+  • Reverse Gravity
+  • Joystick Fly
+  • Playspace Abuse
+  • No Tag Freeze
+  • Tag Freeze
+  • Grippy Hands
+  • Slippery Hands
+  • Checkpoint
+  • Wall Walk
+  • Pull Mod
+  • Fast Swim
+  • Teleport Map [Forest/City/Canyons/Clouds/Caves/Beach/Mountains/Basement/Metropolis/Arcade/SkatePark/Bayou]
+  • Teleport
+  • Quick Drop
+  • Hover
+  • Drone
+
+
+၊| Client |၊
+  • Long Arms
+  • Stick Long Arms
+  • Size Changer
+  • Backwards Head
+  • Broken Neck
+  • Upsidedown Head
+  • Sideways Head
+  • Spaz Head
+  • Head Spin
+  • Uncap FPS
+  • Set FPS 144
+  • Set FPS 120
+  • Set FPS 90
+  • Set FPS 80
+  • Set FPS 72
+  • Set FPS 60
+  • Set FPS 45
+  • Set FPS 15
+  • Set FPS 1
+  • Dance
+  • Wobbly
+  • Glitch
+  • Rig Gun
+  • Chase Player Gun
+  • Orbit Player Gun
+  • Copy Player Gun
+  • Mirror Player Gun
+  • Jumpscare Player Gun
+  • Backshot Player Gun
+  • Gawk Player Gun
+  • Piggyback Player Gun
+  • T-Pose
+  • Head Stare
+
+
+၊| Visual |၊
+  • First Person Camera
+  • Freecam
+  • FOV [60/75/90/105/120]
+  • Time of Day [Dawn/Morning/LateMorning/Midday/Afternoon/LateAfternoon/Dusk/Evening/Night/LateNight]
+  • Fog
+  • FPS Boost
+  • Chams
+  • Outline ESP
+  • Bug Outline ESP
+  • Bat Outline ESP
+  • Fly Outline ESP
+  • Lucy Outline ESP
+  • Outline Thickness
+  • Silhouette ESP
+  • Glow ESP
+  • Highlight ESP
+  • Ring ESP
+  • Bug Silhouette
+  • Bug Glow
+  • Bug Highlight
+  • Bug Ring
+  • Bat Silhouette
+  • Bat Glow
+  • Bat Highlight
+  • Bat Ring
+  • Fly Silhouette
+  • Fly Glow
+  • Fly Highlight
+  • Fly Ring
+  • Lucy Silhouette
+  • Lucy Glow
+  • Lucy Highlight
+  • Lucy Ring
+  • Distance Tag
+  • Tag State
+  • Crashable Tag
+  • It Highlight
+  • Off-Screen Arrows
+  • 2D Box ESP
+  • 2D Corner Box ESP
+  • 2D Filled Box ESP
+  • Line ESP
+  • Skeleton ESP
+  • Dot ESP
+  • Nametag ESP
+  • FPS Tag
+  • Ping Tag
+  • Dump Player Data
+  • Tracers ESP
+  • Bug Tracer ESP
+  • Bat Tracer ESP
+  • Fly Tracer ESP
+  • Lucy Tracer ESP
+  • Beacons ESP
+  • Trail ESP
+  • Wireframe Box ESP
+  • 3D Corner Box ESP
+  • Prediction ESP
+  • Bug Box ESP
+  • Circle ESP
+  • Bug Dot ESP
+  • Bug Chams
+  • Fly Box ESP
+  • Fly Dot ESP
+  • Fly Chams
+  • Bat Box ESP
+  • Bat Dot ESP
+  • Bat Chams
+  • Lucy Box ESP
+  • Lucy Dot ESP
+  • Lucy Chams
+  • No Halloween Decorations
+
+
+၊| Gamemode |၊
+  • Tag All
+  • Tag Gun
+  • Tag Aura
+  • Tag Self
+  • No Tag On Join
+  • Flick Tag
+  • Untag Self
+  • Anti Tag
+  • Show Tag On Self
+  • Untag Aura
+  • Untag All
+  • Untag Gun
+  • Guardian All
+  • Guardian Self
+  • UnGuardian All
+  • UnGuardian Self
+  • Gadget Knockback All
+  • Launch All Up
+  • Delete All Gadgets
+  • Freeze Gadgets
+  • Teleport Gadgets To Me
+  • Explode Gadgets
+  • Max Resources
+  • Unlock Full Tech Tree
+  • Vacuum Blocks
+  • Freeze Blocks
+  • Scatter Blocks
+  • Grab Blocks
+
+
+၊| Overpowered |၊
+  • Change Lucy Type [Red/Blue]
+  • Spawn Lucy [M]
+  • Despawn Lucy [M]
+  • Lucy Ownership [M]
+  • Lucy Gun [M]
+  • Lucy Target Gun [M]
+  • Lucy Orbit [M]
+  • Lucy Self [M]
+  • Lucy Target Spaz [M]
+  • Lucy Speed Changer [Slow/Medium/Fast/VeryFast/Insane]
+  • Lucy Speed [M]
+  • Lucy Hunt [M]
+  • Tag Lag [M]
+  • Slow Gun [M]
+  • Slow All [M]
+  • Mat All [M]
+  • Mat Aura [M]
+  • Mat Gun [M]
+  • Touch To Mat [M]
+  • Get Touched To Mat [M]
+  • Deafen All
+  • Deafen Gun
+  • Touch To Deafen
+  • Get Touched To Deafen
+  • Vibrate Gun [M]
+  • Vibrate All [M]
+  • Vibrate Aura [M]
+  • Vibrate On Touch [M]
+  • Get Touched To Vibrate [M]
+  • Get Flower [M]
+  • Flower Gun [M]
+  • Despawn Lurker [M]
+  • Respawn Lurker [M]
+  • Lurker Me [M]
+  • Lurker Target Gun [M]
+  • App Quit ALL [M]
+  • App Quit Gun [M]
+
+
+၊| Safety |၊
+  • Stream Proof
+  • Anti Crash
+  • Nametag Break
+  • Silent AntiModChecker
+  • AntiModChecker
+  • Anti VC Ban
+  • Anti Moderator
+  • Flush Network
+  • No Finger Movement
+  • Flush Room Cache
+  • RPCShield
+  • Spoof Platform
+  • Platform Tag: Steam
+  • Fake Lag
+  • Spoof FPS
+  • Ping Spoof
+  • Name Spoof
+  • Color Spoof
+  • Spoof Ranked Platform
+  • Spoof Ranked Badge
+  • Random Name
+
+
+၊| Sound |၊
+  • Hand Tap Player
+  • Boop Gun
+  • Gong Gun
+  • Slap Gun
+  • Trace Audio Spam
+  • Sound Spam
+  • Play Sound
+  • Master Volume
+  • Loud Mic
+  • Mute Mic
+  • Echo Voice
+  • Radio Voice
+  • Underwater Voice
+  • Reverb Voice
+  • Earrape Mic
+  • High Pitch Voice
+  • Low Pitch Voice
+  • Reset Mic
+
+၊| Spotify |၊
+  • Now Playing
+  • Play
+  • Pause
+  • Next Song
+  • Previous Song
+  • Spotify Volume Up 10+
+  • Spotify Volume Down -10
+  • Spotify Volume
+  • Open Spotify
+  • Download Song
+  • Local Player Info
+  • Play-Pause Local
+  • Stop Local
+  • Song Speed
+  • Song Reverb
+  • Music Volume
+  • Local Song
+  • Manage Local Songs
+    • Selected Song
+    • Select Song
+    • Play Selected
+    • Delete Selected
+    • Open Music Folder
+
+၊| Soundboard |၊
+  • Reload Sounds
+  • Open Sounds Folder
+  • Soundboard Loop
+  • Stop All Sounds
+  • Select Sound
+  • Selected Sound
+  • Play Selected
+  • Stop Selected
+  • Board Playing
+  • Board Volume
+
+၊| Network |၊
+  • Disconnect
+  • Disconnect Playfab
+  • Quit
+  • Join Modded Casual
+  • Join Modded Infection
+  • Random Identification
+  • Join Random Competitive Lobby
+  • Unlock Comp
+  • Join Random
+  • New Private Codes
+  • Join Private Room
+  • Reconnect
+  • Copy Room Code
+  • Reset Room Joining
+  • Auto Rejoin
+  • Player List
+  • Restart Game
+  • Create Public Lobby
+  • Create Public 20 Lobby
+  • Accept TOS
+  • Join Discord
+  • Master Check
+  • EU Servers
+  • USW Servers
+  • US Servers
+  • Unlock VIM
+  • Anti AFK Kick
+  • Disable Network Triggers
+  • Disable Map Triggers
+  • Disable Quit Box
+  • Disable Lurker
+  • Player List
+    • Player Name
+    • Player FPS
+    • Player Ping
+    • Player Tagged
+    • Teleport To Them
+    • Tag Them
+    • Annoy With Lurker
+    • Spectate Player
+    • Spectate View [ThirdPerson/FirstPerson]
+    • Back To Player List
+
+
+၊| Fun |၊
+  • Grab Bug
+  • Bug Orbit
+  • Bug Spaz
+  • Destroy Bug
+  • Grab Bat
+  • Bat Orbit
+  • Bat Spaz
+  • Destroy Bat
+  • Grab Fly
+  • Fly Orbit
+  • Fly Spaz
+  • Destroy Fly
+  • Remove Bracelet
+  • Bracelet Spam
+  • Get Bracelet
+  • Silent Hand Taps
+  • Claws
+  • Loud Hand Taps
+  • Air Swim
+  • Glider Aura
+  • Respawn Gliders
+  • Destroy Gliders
+  • Glider Blind Gun
+  • Glider Blind All
+  • Glider Gun
+  • Orbit Gliders
+  • Spaz Gliders
+  • Grab Gliders
+  • Fast Gliders
+  • Slowmo Gliders
+  • Spawn Hoverboard
+  • Shoot Hoverboards
+  • Orbit Hoverboards
+  • Hoverboard Aura
+  • Hoverboard Gun
+  • Spaz Hoverboard
+  • Rainbow Hoverboard
+  • Strobe Hoverboard
+  • Become Hoverboard
+  • Lay On Back
+  • Lay On Stomach
+  • Upside Down
+  • Flipping
+  • Set Quest Badge Max
+  • Set Quest Badge Low
+  • Set Quest Badge Random
+  • Spam Quest Badge
+
+၊| Projectiles |၊
+  • Anti Knockback
+  • Get Projectile
+  • Projectile Spammer [CS]
+  • Projectile Minigun [CS]
+  • Projectile Launcher [CS]
+  • Projectile Type
+  • Spammer Rate [Slow/Normal/Fast/Rapid/Insane]
+  • Spammer Speed [Slow/Normal/Fast/Rapid/Insane]
+  • Minigun Rate [Slow/Normal/Fast/Rapid/Insane]
+  • Minigun Speed [Slow/Normal/Fast/Rapid/Insane]
+  • Launcher Rate [Slow/Normal/Fast/Rapid/Insane]
+  • Launcher Speed [Slow/Normal/Fast/Rapid/Insane]
+
+MODS : 435
